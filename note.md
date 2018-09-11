@@ -56,7 +56,8 @@ pour donner un effet de mouvement innatendu la lissajous curve est bien. C'est u
 
 ### Arctengent
 
-asin, acos et atan sont les inverses de 
+asin, acos et atan sont les inverses de sin, cos et tan soit sin^-1, cos^-1, tan^-1
+
 
 retrouver un angle en ayant l'hypoténnuse et l'adjacent 
 
