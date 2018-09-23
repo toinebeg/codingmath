@@ -61,7 +61,7 @@ asin, acos et atan sont les inverses de sin, cos et tan soit sin^-1, cos^-1, tan
 
 retrouver un angle en ayant l'hypoténnuse et l'adjacent 
 
-
+A = atan o/a
 
 ###Convertion radrian degré
 
@@ -69,4 +69,14 @@ retrouver un angle en ayant l'hypoténnuse et l'adjacent
 
 >rad = (deg*PI)/180  
 
- 
+ ### Vector 
+
+ les vecteurs sont des valeurs qui contiennent une direction (angle) et une magnitude (longueur). Représenté sur un graphe cartésien, ils ressemble à une droite avec un triangle pour former une fleche. 
+  on peut les écrire avec les lettres de leurs points avec une fleche au dessus. 
+
+  ```
+  ->
+  AB
+  ``` 
+
+
