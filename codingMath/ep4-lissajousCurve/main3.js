@@ -15,9 +15,9 @@ window.onload = function() {
         xRadius = 200,
         yRadius = 200,
 		xangle = 0,
-		xspeed = .1,
+		xspeed = .017,
         yangle = 0,
-		yspeed = .131,
+		yspeed = .06,
         x,y;
 
 		render()

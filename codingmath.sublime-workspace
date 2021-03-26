@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"pwdArr\tany"
+			],
+			[
+				"is",
+				"isAValidPassword\t(pwd: any) => any"
+			],
+			[
+				"p",
+				"pwdArr\tArray<string>"
+			],
+			[
+				"m",
+				"min\t(...values: Array<number>) => number"
+			],
+			[
+				"seg",
+				"segment1\tany"
+			],
+			[
+				"be",
+				"beginRecurs\tany"
+			],
+			[
+				"end",
+				"endRecurs\tany"
+			],
+			[
+				"en",
+				"end\tany"
+			],
+			[
+				"com",
+				"computeRecurs\t(opCode: any, position: any) => any"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"su",
+				"supFuel\tany"
+			],
+			[
+				"tota",
+				"totalFuel\tany"
+			],
+			[
+				"comp",
+				"computeFuelFromMass\t(mass: any) => any"
+			],
+			[
+				"s",
+				"step2\tnumber"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"std",
+				"stdlib.h\tstandard header"
+			],
+			[
+				"center",
+				"centerX"
+			],
+			[
+				"cont",
+				"context"
+			],
+			[
+				"cente",
+				"centerY"
+			],
+			[
+				"render",
+				"TagRequest__handleReadyStateChange"
+			],
+			[
+				"can",
+				"canvas"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ep4-lissajousCurve/index.html",
+			"settings":
+			{
+				"buffer_size": 262,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ep4-lissajousCurve/main3.js",
+			"settings":
+			{
+				"buffer_size": 743,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/toine/.zshrc",
+			"settings":
+			{
+				"buffer_size": 3596,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"jslin",
+				"Build With: JSLint"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"js refor",
+				"JavaScript Enhancements Flow: Next Error"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set h",
+				"Set Syntax: Haskell"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"has",
+				"Set Syntax: Haskell"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Snippet: htmlboiler"
+			],
+			[
+				"inta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/toine/work/codingmath",
+		"/home/toine/work/codingmath/ep4-lissajousCurve",
+		"/home/toine/work/codingmath/ep5-arctangent"
+	],
+	"file_history":
+	[
+		"/home/toine/.profile",
+		"/home/toine/work/duel/graphics/hit_cleaned/hide_work.svg",
+		"/home/toine/work/duel/graphics/hit_cleaned/hide_cleaned.svg",
+		"/home/toine/.zshrc",
+		"/home/toine/work/learnSomeHaskell/baby.hs",
+		"/home/toine/Documents/jeansolparte",
+		"/home/toine/work/codingmath/ep4-lissajousCurve/mainep2.js",
+		"/home/toine/work/codingmath/ep4-lissajousCurve/main.js",
+		"/home/toine/work/codingmath/note.md",
+		"/home/toine/work/codingmath/.gitignore",
+		"/home/toine/work/codingmath/ep4-lissajousCurve/index.html",
+		"/home/toine/work/codingmath/ep3-trigo_part2/main.js",
+		"/home/toine/work/codingmath/ep3-trigo_part2/mainv2.js",
+		"/home/toine/work/codingmath/ep3-trigo_part2/mainv1.js",
+		"/home/toine/work/codingmath/ep2-trigo/main.js",
+		"/home/toine/work/codingmath/ep2-trigo/index.html",
+		"/home/toine/work/codingmath/ep2-trigo/note.md",
+		"/home/toine/work/codingmath/template/main.js",
+		"/home/toine/work/codingmath/template/note.md",
+		"/home/toine/work/codingmath/template/index.html",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/home/toine/work/poussinet/html/js/AssetsLoader.js",
+		"/home/toine/work/impactTest/impact/index.html",
+		"/home/toine/work/impactTest/impact/lib/game/main.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ep4-lissajousCurve/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ep4-lissajousCurve/main3.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/toine/.zshrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3594,
+								3594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "codingmath.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
