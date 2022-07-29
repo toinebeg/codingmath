@@ -1,12 +1,12 @@
-#Coding Math
-##misc
+# Coding Math
+## misc
 
-###liste les episodes par ordre croissant
+### liste les episodes par ordre croissant
 '''ls | sort -k5 -n'''
 
-##Intro to Trigonometry
+## Intro to Trigonometry
 
-###l'étude des triangles rectangles
+### l'étude des triangles rectangles
 
 Si on prend l'angle A
 
@@ -43,7 +43,7 @@ while
 	angle += speed;
 ```
 
-###cercles et ellipses
+### cercles et ellipses
 
 Dans un cercle, si le centre est l'angle A de notre triangle, le rayon du cercle est l'hypothénuse de notre triangle.
 Pour trouver n'importe quel point du cercle ( angle B) on peut faire 
@@ -63,7 +63,7 @@ retrouver un angle en ayant l'hypoténnuse et l'adjacent
 
 A = atan o/a
 
-###Convertion radrian degré
+### Convertion radrian degré
 
 >deg = (rad*180)/PI
 
